@@ -1,0 +1,26 @@
+{
+  "name": "auth-tools",
+  "version": "0.0.1",
+  "description": "backend tools for authorization",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kukonen/auth-tools.git"
+  },
+  "keywords": [
+    "backend",
+    "authorization"
+  ],
+  "author": "Evgeniy Kukonen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kukonen/auth-tools/issues"
+  },
+  "homepage": "https://github.com/Kukonen/auth-tools#readme",
+  "dependencies": {
+    "mongoose": "^6.0.14"
+  }
+}
